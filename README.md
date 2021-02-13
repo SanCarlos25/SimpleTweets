@@ -39,8 +39,8 @@ public class RestClient extends OAuthBaseClient {
 
 Rename the `apikey.properties.example` file to `apikey.properties`.   Replace the `CONSUMER_KEY` and `CONSUMER_SECRET` to the values specified in the Twitter console:
 
-CONSUMER_KEY="adsflfajsdlfdsajlafdsjl"
-CONSUMER_SECRET="afdsljkasdflkjsd"
+CONSUMER_KEY="ppcTTQCYjhODlcE16aQtXFYxU"
+CONSUMER_SECRET="asNewOdTMiLFSne7VH3NRbAM1zUXWHz5gwlOIZpwtnzelmPA2X"
 
 Next, change the `intent_scheme` and `intent_host` in `strings.xml` to a unique name that is special for this application.
 This is used for the OAuth authentication flow for launching the app through web pages through an [Android intent](https://developer.chrome.com/multidevice/android/intents).
